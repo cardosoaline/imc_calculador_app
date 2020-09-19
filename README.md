@@ -1,6 +1,6 @@
 # imc_calculador
 
-A new Flutter application.
+Aplicativo desenvolvido em Flutter com intuito de calcular o imc do usuario via app_mobile.
 
 ## Getting Started
 
